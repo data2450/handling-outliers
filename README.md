@@ -24,6 +24,7 @@ An outlier is a data point in a data set that is distant from all other observat
 4)outliers will missleads the results
 
 **Various ways of finding the outlier**
+
 1.Using scatter plots
 
 2.Box plot
@@ -31,3 +32,5 @@ An outlier is a data point in a data set that is distant from all other observat
 3.using z score
 
 4.using the IQR interquantile range
+
+the detailed explanation is given inside the notebook file
