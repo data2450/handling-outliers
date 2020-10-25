@@ -1,6 +1,8 @@
 # handling-outliers
+
 ? **what is an outlier**
 An outlier is a data point in a data set that is distant from all other observations. A data point that lies outside the overall distribution of the dataset
+
 **?criteria to identify an outlier?**
 1.Data point that falls outside of 1.5 times of an interquartile range above the 3rd quartile and below the 1st quartile
 
