@@ -4,9 +4,10 @@
 An outlier is a data point in a data set that is distant from all other observations. A data point that lies outside the overall distribution of the dataset
 
 **?criteria to identify an outlier?**
-1.Data point that falls outside of 1.5 times of an interquartile range above the 3rd quartile and below the 1st quartile
 
-2.Data point that falls outside of 3 standard deviations. we can use a z score and if the z score falls outside of 2 standard deviation
+1)Data point that falls outside of 1.5 times of an interquartile range above the 3rd quartile and below the 1st quartile
+
+2)Data point that falls outside of 3 standard deviations. we can use a z score and if the z score falls outside of 2 standard deviation
 
 **What is the reason for an outlier to exists in a dataset?**
 1)Variability in the data
